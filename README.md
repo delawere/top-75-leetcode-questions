@@ -4,7 +4,7 @@
 
 3. Two Sum [Leetcode](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/two-sum.js)
 
-4. Product of Array Except Self [Leetcode](https://leetcode.com/problems/product-of-array-except-self/) | Solution
+4. Product of Array Except Self [Leetcode](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/maximum-subarray.js)
 
 5. Maximum Subarray [Leetcode](https://leetcode.com/problems/maximum-subarray/) | Solution
 
