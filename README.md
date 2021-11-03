@@ -2,4 +2,4 @@
 
 2. Contains duplicate [Leetcode](https://leetcode.com/problems/contains-duplicate) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/contains-duplicate.js)
 
-3. Two Sum [Leetcode](https://leetcode.com/problems/two-sum/) | Solution
+3. Two Sum [Leetcode](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/two-sum.js)
