@@ -17,7 +17,7 @@
 1. Sum of Two Integers [Leetcode](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/sum-of-two-integers.js)
 2. Number of 1 Bits - [Leetcode](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/number-of-1-bits.js)
 3. Counting Bits - [Leetcode](https://leetcode.com/problems/counting-bits/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/counting-bits.js)
-4. Missing Number - [Leetcode](https://leetcode.com/problems/missing-number/) | Solution
+4. Missing Number - [Leetcode](https://leetcode.com/problems/missing-number/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/missing-number.js)
 5. Reverse Bits - [Leetcode](https://leetcode.com/problems/reverse-bits/) | Solution
 
 
