@@ -33,7 +33,7 @@
 
 ## String
 
-1. Longest Substring Without Repeating Characters [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Solution
+1. Longest Substring Without Repeating Characters [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/longest-substring-without-repeating-characters.js)
 2. Longest Repeating Character Replacement [Leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Solution
 3. Minimum Window Substring [Leetcode](https://leetcode.com/problems/minimum-window-substring/) | Solution
 4. Valid Anagram [Leetcode](https://leetcode.com/problems/valid-anagram/) | Solution
