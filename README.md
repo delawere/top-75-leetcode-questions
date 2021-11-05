@@ -35,8 +35,8 @@
 
 1. Longest Substring Without Repeating Characters [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/longest-substring-without-repeating-characters.js)
 2. Longest Repeating Character Replacement [Leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/) | Solution
-3. Minimum Window Substring [Leetcode](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/valid-anagram.js)
-4. Valid Anagram [Leetcode](https://leetcode.com/problems/valid-anagram/) | Solution
+3. Minimum Window Substring [Leetcode](https://leetcode.com/problems/minimum-window-substring/) | Solution
+4. Valid Anagram [Leetcode](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/valid-anagram.js)
 5. Group Anagrams [Leetcode](https://leetcode.com/problems/group-anagrams/) | Solution
 6. Valid Parentheses [Leetcode](https://leetcode.com/problems/valid-parentheses/) | Solution
 7. Valid Palindrome [Leetcode](https://leetcode.com/problems/valid-palindrome/) | Solution
