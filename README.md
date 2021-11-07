@@ -38,7 +38,7 @@
 3. Minimum Window Substring [Leetcode](https://leetcode.com/problems/minimum-window-substring/) | Solution
 4. Valid Anagram [Leetcode](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/valid-anagram.js)
 5. Group Anagrams [Leetcode](https://leetcode.com/problems/group-anagrams/) | Solution
-6. Valid Parentheses [Leetcode](https://leetcode.com/problems/valid-parentheses/) | Solution
+6. Valid Parentheses [Leetcode](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/valid-parentheses.js)
 7. Valid Palindrome [Leetcode](https://leetcode.com/problems/valid-palindrome/) | Solution
 8. Longest Palindromic Substring [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/) | Solution
 9. Palindromic Substrings [Leetcode](https://leetcode.com/problems/palindromic-substrings/) | Solution
