@@ -41,7 +41,7 @@
 6. Valid Parentheses [Leetcode](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/valid-parentheses.js)
 7. Valid Palindrome [Leetcode](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/valid-palindrome.js)
 8. Longest Palindromic Substring [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/) | Solution
-9. Palindromic Substrings [Leetcode](https://leetcode.com/problems/palindromic-substrings/) | Solution
+9. Palindromic Substrings [Leetcode](https://leetcode.com/problems/palindromic-substrings/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/palindromic-substrings.js)
 
 
 ## Tree
