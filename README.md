@@ -29,6 +29,7 @@
 4. Merge K Sorted Lists [Leetcode](https://leetcode.com/problems/merge-k-sorted-lists/) | Solution
 5. Remove Nth Node From End Of List [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Solution
 6. Reorder List [Leetcode](https://leetcode.com/problems/reorder-list/) | Solution
+7. Remove Linked List Elements [Leetcode](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/remove-linked-list-elements.js)
 
 
 ## String
