@@ -67,4 +67,4 @@
 
 1.  Pascal's Triangle [Leetcode](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/pascals-triangle.js)
 2.  Pascal's Triangle 2 [Leetcode](https://leetcode.com/problems/pascals-triangle-ii/) |  [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/pascals-triangle-ii.js)
-3.  Is Subsequence [Leetcode](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/pascals-triangle-ii.js)
+3.  Is Subsequence [Leetcode](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/is-subsequence.js)
