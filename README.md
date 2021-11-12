@@ -61,3 +61,8 @@
 12. Implement Trie (Prefix Tree) [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) | Solution
 13. Add and Search Word [Leetcode](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | Solution
 14. Word Search II [Leetcode](https://leetcode.com/problems/word-search-ii/) | Solution
+
+
+## Dynamic Programming
+
+1.  Pascal's Triangle [Leetcode](https://leetcode.com/problems/pascals-triangle/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/pascals-triangle.js)
