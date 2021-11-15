@@ -69,3 +69,4 @@
 2.  Pascal's Triangle 2 [Leetcode](https://leetcode.com/problems/pascals-triangle-ii/) |  [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/pascals-triangle-ii.js)
 3.  Is Subsequence [Leetcode](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/is-subsequence.js)
 4.  House Robber [Leetcode](house-robber) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/house-robber.js)
+5.  Unique Paths [Leetcode](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/unique-paths.js)
