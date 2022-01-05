@@ -72,3 +72,4 @@
 5.  Unique Paths [Leetcode](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/unique-paths.js)
 6.  Minimum Path Sum [Leetcode](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/minimum-path-sum.js)
 7.  Longest Increasing Subsequence [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/longest-increasing-subsequence.js)
+8.  Longest Common Subsequence [Leetcode](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/longest-common-subsequence.js)
