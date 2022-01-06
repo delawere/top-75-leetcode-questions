@@ -73,4 +73,4 @@
 6.  Minimum Path Sum [Leetcode](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/minimum-path-sum.js)
 7.  Longest Increasing Subsequence [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/longest-increasing-subsequence.js)
 8.  Longest Common Subsequence [Leetcode](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/longest-common-subsequence.js)
-9.  Combination Sum IV [Leetcode](https://leetcode.com/problems/combination-sum-iv/) | [Solution (DFS + memo)](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/combination-sum-iv.js)
+9.  Combination Sum IV [Leetcode](https://leetcode.com/problems/combination-sum-iv/) | [Solution (DFS + memo)](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/combination-sum-iv)
