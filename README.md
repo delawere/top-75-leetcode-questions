@@ -55,7 +55,7 @@
 6. Serialize and Deserialize Binary Tree [Leetcode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Solution
 7. Subtree of Another Tree [Leetcode](https://leetcode.com/problems/subtree-of-another-tree/) | Solution
 8. Construct Binary Tree from Preorder and Inorder Traversal [Leetcode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Solution
-9. Validate Binary Search Tree [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/) | Solution
+9. Validate Binary Search Tree [Leetcode](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/validate-binary-search-tree.js)
 10. Kth Smallest Element in a BST [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Solution
 11. Lowest Common Ancestor of BST [Leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Solution
 12. Implement Trie (Prefix Tree) [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/) | Solution
