@@ -43,6 +43,7 @@
 7. Valid Palindrome [Leetcode](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/valid-palindrome.js)
 8. Longest Palindromic Substring [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/) | Solution
 9. Palindromic Substrings [Leetcode](https://leetcode.com/problems/palindromic-substrings/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/palindromic-substrings.js)
+10. Longest Substring with At Least K Repeating Characters [Leetcode](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Solution](https://github.com/delawere/top-75-leetcode-questions/blob/main/questions/longest-substring-with-at-least-k-repeating-characters.js)
 
 
 ## Tree
